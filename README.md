@@ -27,10 +27,10 @@ Welcome to the official landing page for **Nexas Digi Solutions**, a cutting-edg
 
 ```bash
 # Clone the repository
-git clone https://github.com/Aswinsaipalakonda/nexas-digi-landing.git
+git clone https://github.com/Aswinsaipalakonda/landing-page.git
 
 # Navigate into the folder
-cd nexas-digi-landing
+cd landing-page
 
 # Install dependencies
 npm install
