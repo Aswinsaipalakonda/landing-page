@@ -1,4 +1,4 @@
-# 🌐 Landing Page
+# 🌐 React Landing Page
 
 Welcome to the official landing page for **Nexas Digi Solutions**, a cutting-edge digital solutions provider. This project showcases a modern, responsive, and clean landing page built with **React.js**.
 
